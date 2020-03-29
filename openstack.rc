@@ -1,0 +1,14 @@
+export OS_ENDPOINT_TYPE=internalURL
+export OS_INTERFACE=internalURL
+export OS_USERNAME=<USERNAME>
+export OS_PASSWORD=<PASSWORD>
+export OS_PROJECT_NAME=<PROJECT_NAME>
+export OS_TENANT_NAME=<TENANT_NAME>
+export OS_AUTH_TYPE=password
+export OS_AUTH_URL=http://IP:5000/v3
+export OS_NO_CACHE=1
+export OS_USER_DOMAIN_NAME=Default
+export OS_PROJECT_DOMAIN_NAME=Default
+export OS_REGION_NAME=RegionOne
+export OS_IDENTITY_API_VERSION=3
+export OS_AUTH_VERSION=3
